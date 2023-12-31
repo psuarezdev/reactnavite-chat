@@ -1,2 +1,2 @@
-# reactNavite-chat
+# reactnavite-chat
 FullStack Realtime ChatApp developed with React Native - Socket.io | Nodejs - Express - Sequelize - MySQL
